@@ -1,7 +1,7 @@
 import img1 from '../assets/images/wirelesshead.jpg';
-import img2 from '../assets/images/Smartwatch.jpg';
+import img2 from '../assets/images/smartwatch.jpg';
 import img3 from '../assets/images/laptopstand.jpg';
-import img4 from '../assets/images/gaming mouse.jpg';
+import img4 from '../assets/images/gamingmouse.jpg';
 import img5 from '../assets/images/ledlamp.jpg';
 
 
