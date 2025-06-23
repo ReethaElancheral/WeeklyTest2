@@ -1,4 +1,4 @@
-import img1 from '../assets/images/Wirelesshead.jpg';
+import img1 from '../assets/images/wirelesshead.jpg';
 import img2 from '../assets/images/Smartwatch.jpg';
 import img3 from '../assets/images/laptopstand.jpg';
 import img4 from '../assets/images/gaming mouse.jpg';
